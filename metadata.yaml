@@ -1,5 +1,8 @@
 _repo: John-Cheap-the-Chapman-s-Library-Vol-2-Religious-and-Scriptural-The-Scottish-Chap-Literature-__64050
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 64050-h/images/cover.jpg
 creator:
   author:
     agent_name: Graham, Dougal
@@ -11,6 +14,8 @@ creator:
     wikipedia: https://en.wikipedia.org/wiki/Dougal_Graham
 description: Volume 2 of a collection of 58 chap-books chiefly attributed to Dougal
   Graham.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/64050#John-Cheap-the-Chapman-s-Library-Vol-2-Religious-and-Scriptural-The-Scottish-Chap-Literature-_
 gutenberg_issued: '2020-12-15'
 gutenberg_type: Text
 identifiers:
